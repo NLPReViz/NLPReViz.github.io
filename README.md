@@ -4,7 +4,7 @@
 
 We present a prototype tool to visualize and review the result of using NLP techniques to extract boolean variables from clinical text. Our tool combines multiple visualizations to help the users understand these results and make any necessary corrections to the models, thus forming a feedback loop and helping improve the accuracy of the NLP models. More details about the project are available [here]( trivedigaurav.com/blog/clinical-text-analysis-using-interactive-natural-language-processing/).
 
-## Get Code
+## Get the code
 
 Interface: [http://github.com/trivedigaurav/emr-vis-web](http://github.com/trivedigaurav/emr-vis-web)
 
