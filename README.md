@@ -6,9 +6,9 @@ We present a prototype tool to visualize and review the result of using NLP tech
 
 ## Get the code
 
-Interface: [http://github.com/NLPReViz/emr-vis-web](http://github.com/NLPReViz/emr-vis-web)
+Interface: [http://github.com/NLPReViz/emr-vis-web](http://github.com/NLPReViz/emr-vis-web) (Release: [zip](https://github.com/NLPReViz/emr-vis-web/archive/empirical-study.zip) | [tar](https://github.com/NLPReViz/emr-vis-web/archive/empirical-study.tar.gz))
 
-NLP Server: [http://github.com/NLPReViz/emr-nlp-server](http://github.com/NLPReViz/emr-vis-web)
+NLP Server: [http://github.com/NLPReViz/emr-nlp-server](http://github.com/NLPReViz/emr-nlp-server) (Release: [zip](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.zip) | [tar](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.tar.gz))
 
 ## Cite
 Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, and Harry Hochheiser. 2015. Bridging the Natural Language Processing Gap: An Interactive Clinical Text Review Tool. Poster presented at the 2015 AMIA Summit on Clinical Research Informatics (CRI 2015). San Francisco. March 2015.
