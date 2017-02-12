@@ -14,7 +14,7 @@ NLP Server: [http://github.com/NLPReViz/emr-nlp-server](http://github.com/NLPReV
 Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, and Harry Hochheiser. 2015. Bridging the Natural Language Processing Gap: An Interactive Clinical Text Review Tool. Poster presented at the 2015 AMIA Summit on Clinical Research Informatics (CRI 2015). San Francisco. March 2015.
 
 ```
-@InProceedings{iui-workshop,
+@InProceedings{trivedi15,
 author = {Trivedi, Gaurav and Pham, Phuong and Chapman, Wendy and Hwa, Rebecca and Wiebe, Janyce and Hochheiser, Harry},
 title = {An Interactive Tool for Natural Language Processing on Clinical Text},
 booktitle = {4th Workshop on Visual Text Analytics (IUI TextVis 2015)},
