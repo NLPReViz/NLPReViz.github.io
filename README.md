@@ -11,10 +11,33 @@ Interface: [http://github.com/NLPReViz/emr-vis-web](http://github.com/NLPReViz/e
 NLP Server: [http://github.com/NLPReViz/emr-nlp-server](http://github.com/NLPReViz/emr-nlp-server) | [zip](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.zip) | [tar](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.tar.gz)
 
 ## Cite
+
+Gaurav Trivedi. 2015. Clinical Text Analysis Using Interactive Natural Language Processing. In Proceedings of the 20th International Conference on Intelligent User Interfaces Companion (IUI Companion ’15). ACM, New York, NY, USA, 113-116. DOI 10.1145/2732158.2732162
+
+```
+@inproceedings{Trivedi2015,
+ author = {Trivedi, Gaurav},
+ title = {Clinical Text Analysis Using Interactive Natural Language Processing},
+ booktitle = {Proceedings of the 20th International Conference on Intelligent User Interfaces Companion},
+ series = {IUI Companion '15},
+ year = {2015},
+ isbn = {978-1-4503-3308-5},
+ location = {Atlanta, Georgia, USA},
+ pages = {113--116},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/2732158.2732162},
+ doi = {10.1145/2732158.2732162},
+ acmid = {2732162},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {electronic medical records, interactive machine learning, visualization},
+} 
+```
+
 Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser. 2015. An Interactive Tool for Natural Language Processing on Clinical Text. Presented at 4th Workshop on Visual Text Analytics (IUI TextVis 2015), Atlanta.
 
 ```
-@InProceedings{trivedi15,
+@InProceedings{Trivedi2015TextVis,
 author = {Trivedi, Gaurav and Pham, Phuong and Chapman, Wendy and Hwa, Rebecca and Wiebe, Janyce and Hochheiser, Harry},
 title = {An Interactive Tool for Natural Language Processing on Clinical Text},
 booktitle = {4th Workshop on Visual Text Analytics (IUI TextVis 2015)},
