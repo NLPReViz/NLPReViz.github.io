@@ -11,7 +11,7 @@ Interface: [http://github.com/NLPReViz/emr-vis-web](http://github.com/NLPReViz/e
 NLP Server: [http://github.com/NLPReViz/emr-nlp-server](http://github.com/NLPReViz/emr-nlp-server) | [zip](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.zip) | [tar](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.tar.gz)
 
 ## Cite
-Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, and Harry Hochheiser. 2015. Bridging the Natural Language Processing Gap: An Interactive Clinical Text Review Tool. Poster presented at the 2015 AMIA Summit on Clinical Research Informatics (CRI 2015). San Francisco. March 2015.
+Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser. 2015. An Interactive Tool for Natural Language Processing on Clinical Text. Presented at 4th Workshop on Visual Text Analytics (IUI TextVis 2015), Atlanta.
 
 ```
 @InProceedings{trivedi15,
