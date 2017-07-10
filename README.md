@@ -18,7 +18,7 @@ Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, and Harry
 @preamble{ " \newcommand{\noop}[1]{} " }
 @article {jamia,
   author = {Trivedi, Gaurav and Pham, Phuong and Chapman, Wendy and Hwa, Rebecca and Wiebe, Janyce and Hochheiser, Harry},
-  title = { N{L}{P}{R}e{V}iz: {A}n {I}nteractive {T}ool for {N}atural {L}anguage {P}rocessing on {C}linical {T}ext },
+  title = { {N}{L}{P}{R}e{V}iz: {A}n {I}nteractive {T}ool for {N}atural {L}anguage {P}rocessing on {C}linical {T}ext },
   year = {\noop{3001}in press},
   publisher = {The Oxford University Press},
   journal = {Journal of the American Medical Informatics Association}
