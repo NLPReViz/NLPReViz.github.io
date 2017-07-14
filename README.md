@@ -27,7 +27,7 @@ Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, and Harry
 
 ## Other Publications
 
-_Concept_: Gaurav Trivedi. 2015. Clinical Text Analysis Using Interactive Natural Language Processing. In Proceedings of the 20th International Conference on Intelligent User Interfaces Companion (IUI Companion ’15). ACM, New York, NY, USA, 113-116. DOI 10.1145/2732158.2732162
+_Concept_: Gaurav Trivedi. 2015. Clinical Text Analysis Using Interactive Natural Language Processing. In Proceedings of the 20th International Conference on Intelligent User Interfaces Companion (IUI Companion ’15). ACM, New York, NY, USA, 113-116. DOI: [10.1145/2732158.2732162](http://dx.doi.org/10.1145/2732158.2732162)
 
 ```
 @inproceedings{Trivedi2015,
@@ -49,7 +49,7 @@ _Concept_: Gaurav Trivedi. 2015. Clinical Text Analysis Using Interactive Natura
 } 
 ```
 
-_Initial Design and Evaluation_: Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser. 2015. An Interactive Tool for Natural Language Processing on Clinical Text. Presented at 4th Workshop on Visual Text Analytics (IUI TextVis 2015), Atlanta.
+_Initial Design and Evaluation_: Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser. 2015. An Interactive Tool for Natural Language Processing on Clinical Text. Presented at 4th Workshop on Visual Text Analytics (IUI TextVis 2015), Atlanta. Available: http://vialab.science.uoit.ca/textvis2015/papers/Trivedi-textvis2015.pdf
 
 ```
 @InProceedings{Trivedi2015TextVis,
