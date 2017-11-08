@@ -61,3 +61,6 @@ month = {Mar},
 url = {http://vialab.science.uoit.ca/textvis2015/papers/Trivedi-textvis2015.pdf}
 }
 ```
+## Publications using the tool
+
+Jaromír Šavelka, Gaurav Trivedi, and Kevin Ashley. 2015. Applying an Interactive Machine Learning Approach to Statutory Analysis. In Proceedings of the 28th International Conference on Legal Knowledge and Information Systems (JURIX ’15). Braga, Portugal – _Awarded the Best Student Paper_.
