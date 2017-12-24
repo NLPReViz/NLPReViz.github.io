@@ -12,7 +12,7 @@ NLP Server: [http://github.com/NLPReViz/emr-nlp-server](http://github.com/NLPReV
 
 ## Cite
 
-Gaurav Trivedi, Phuong Pham, Wendy W Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser; NLPReViz: an interactive tool for natural language processing on clinical text. J Am Med Inform Assoc 2017. DOI: [10.1093/jamia/ocx070](http://dx.doi.org/10.1093/jamia/ocx070).
+Gaurav Trivedi, Phuong Pham, Wendy W Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser; NLPReViz: an interactive tool for natural language processing on clinical text, Journal of the American Medical Informatics Association, Volume 25, Issue 1, 1 January 2018, Pages 81–87, DOI: [10.1093/jamia/ocx070](http://dx.doi.org/10.1093/jamia/ocx070).
 
 ```
 @article{doi:10.1093/jamia/ocx070,
