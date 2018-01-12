@@ -52,7 +52,7 @@ _Concept_: Gaurav Trivedi. 2015. Clinical Text Analysis Using Interactive Natura
 } 
 ```
 
-_Initial Design and Evaluation_: Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser. 2015. An Interactive Tool for Natural Language Processing on Clinical Text. Presented at 4th Workshop on Visual Text Analytics (IUI TextVis 2015), Atlanta. Available: [PDF](http://vialab.science.uoit.ca/textvis2015/papers/Trivedi-textvis2015.pdf)
+_Initial Design and Evaluation_: Gaurav Trivedi, Phuong Pham, Wendy Chapman, Rebecca Hwa, Janyce Wiebe, Harry Hochheiser. 2015. An Interactive Tool for Natural Language Processing on Clinical Text. Presented at 4th Workshop on Visual Text Analytics (IUI TextVis 2015), Atlanta. Available: [http://vialab.science.uoit.ca/textvis2015/papers/Trivedi-textvis2015.pdf](http://vialab.science.uoit.ca/textvis2015/papers/Trivedi-textvis2015.pdf)
 
 ```
 @InProceedings{Trivedi2015TextVis,
