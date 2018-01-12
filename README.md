@@ -17,7 +17,7 @@ Gaurav Trivedi, Phuong Pham, Wendy W Chapman, Rebecca Hwa, Janyce Wiebe, Harry H
 ```
 @article{doi:10.1093/jamia/ocx070,
 author = {Trivedi, Gaurav and Pham, Phuong and Chapman, Wendy W and Hwa, Rebecca and Wiebe, Janyce and Hochheiser, Harry},
-title = {NLPReViz: an interactive tool for natural language processing on clinical text},
+title = {{N}{L}{P}{R}e{V}iz: an interactive tool for natural language processing on clinical text},
 journal = {Journal of the American Medical Informatics Association},
 volume = {25},
 number = {1},
