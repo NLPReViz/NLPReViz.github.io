@@ -6,6 +6,8 @@ We present a prototype tool to visualize and review the result of using NLP tech
 
 ## Get the code
 
+Docker: https://github.com/NLPReViz/nlpreviz-docker | [Dockerfile](https://raw.githubusercontent.com/NLPReViz/nlpreviz-docker/master/Dockerfile)
+
 Interface: [http://github.com/NLPReViz/emr-vis-web](http://github.com/NLPReViz/emr-vis-web) | [zip](https://github.com/NLPReViz/emr-vis-web/archive/empirical-study.zip) | [tar](https://github.com/NLPReViz/emr-vis-web/archive/empirical-study.tar.gz)
 
 NLP Server: [http://github.com/NLPReViz/emr-nlp-server](http://github.com/NLPReViz/emr-nlp-server) | [zip](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.zip) | [tar](https://github.com/NLPReViz/emr-nlp-server/archive/empirical-study.tar.gz)
